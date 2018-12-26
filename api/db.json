@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "First Strean",
+      "description": "WARCRAFT III",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "Max Payne",
+      "id": 2
+    },
+    {
+      "title": "testing history",
+      "description": "progr. navigation biatch",
+      "id": 4
+    },
+    {
+      "title": "dfgdfg",
+      "description": "dfgdfgdfg",
+      "userId": "112002318657102420593",
+      "id": 5
+    }
+  ]
+}
